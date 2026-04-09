@@ -1,5 +1,11 @@
 # Ali Shaikh
 
+Software Developer | Frontend Developer  
+
+React • JavaScript • PHP • MySQL • HTML • CSS  
+API Integration • Responsive Design • Full Stack Development • Cloud (OCI)
+
+---
 Software Developer with a strong foundation in building scalable, full-stack web applications and API-driven systems.
 Experienced in developing efficient, user-focused solutions using modern web technologies and cloud platforms.
 Focused on clean architecture, performance optimization, and delivering production-ready solutions.
