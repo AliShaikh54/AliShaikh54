@@ -52,11 +52,11 @@ Passionate about building modern, responsive and user-friendly web applications.
 ##  GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alishaikh54&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AliShaikh54&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishaikh54&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShaikh54&layout=compact&theme=tokyonight" />
 </p>
 
 ---
