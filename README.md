@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey there, I'm Shaikh Ali</h1>
+<h1 align="center">👋🏻 Hey there, I'm Shaikh Ali</h1>
 
 <h3 align="center">
-Frontend Developer | React Developer | BCA Graduate
+Frontend Developer | React Developer | Junior Software Developer
 </h3>
 
 <p align="center">
@@ -12,7 +12,6 @@ Passionate about building modern, responsive and user-friendly web applications.
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 About Me
 
 - 🌱 I'm currently learning **Advanced React & Full Stack Development**
 - 💻 Building modern web applications using **React.js**
@@ -42,7 +41,7 @@ Passionate about building modern, responsive and user-friendly web applications.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,git,github,vscode" />
@@ -50,7 +49,7 @@ Passionate about building modern, responsive and user-friendly web applications.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Alishaikh54&show_icons=true&theme=tokyonight" />
@@ -62,7 +61,7 @@ Passionate about building modern, responsive and user-friendly web applications.
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### 📝 Task Manager App
 - React.js
